@@ -19,7 +19,7 @@ I'm **Cloud administrator**. I Spend most of time learning cloud concepts or bui
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with better ways to deploy web apps.
 - 📫 How to reach me: th9b310@gmail.com
-- 😄 Pronouns: He, his, his
+- 😄 Pronouns: He, him, his
 - ⚡ Fun fact: I love freshwater fishing and farming.
 ---
 
