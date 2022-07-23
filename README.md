@@ -5,7 +5,7 @@ I'm **Cloud administrator**. I Spend most of time learning cloud concepts or bui
 
 <br>
 
-> "No server is easier to manage than  no server"-Werner Vogels
+> "No server is easier to manage than  no server."-Werner Vogels
 
 <br>
 
