@@ -20,7 +20,7 @@ I'm **Cloud administrator**. I Spend most of time learning cloud concepts or bui
 - 🤔 I’m looking for help with better ways to deploy web apps.
 - 📫 How to reach me: th9b310@gmail.com
 - 😄 Pronouns: He, him, his
-- ⚡ Fun fact: I love freshwater fishing and farming
+- ⚡ Fun fact: I love freshwater fishing and farming.
 ---
 
 ### Languages and tools ⚙️
